@@ -1,0 +1,29 @@
+.main-headline{
+    font-size: 46px;
+    color: green;
+    font-family: georgia;
+    text-align: center;
+}
+.sub-headline{
+    font-family: georgia;
+    text-align: center;   
+}
+
+p{
+    line-height: 25px;
+}
+.p-class{
+    text-transform: uppercase;
+}
+/* link:hover{ }*/
+a:hover{   
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+.link{
+    text-decoration: none;
+}
+img{
+    float: left;
+    padding-right: 9px;
+}

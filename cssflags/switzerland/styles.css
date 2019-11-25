@@ -1,0 +1,36 @@
+*{
+    /* box-sizing: border-box;
+    font-size: 0px; */
+}
+.box{
+    height: 400px;
+}
+.box1 {
+    display: grid;
+    background-color: red;
+    height: 800px;
+    width: 800px;
+}
+.box2 {
+    width: 450px;
+    height: 150px;
+    left: 175px;
+    right: 175px;
+    top: 300px;
+    bottom: 300px;
+    /* left: 425px; */
+    position: fixed; 
+    /* display: inline-block; */
+    background-color:white;
+}
+.box3{
+    width: 150px;
+    height: 450px;
+    left: 325px;
+    right: 175px;
+    top: 150px;
+    bottom: 300px;
+    position: fixed;
+    /* display: inline-block; */
+    background-color: white;
+}
